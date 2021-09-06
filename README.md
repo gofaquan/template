@@ -1,2 +1,2 @@
 # template
-A simple template for gofaquan 
+A simple web backend template for gofaquan 
