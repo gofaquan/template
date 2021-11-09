@@ -1,0 +1,6 @@
+{"level":"INFO","time":"2021-09-06T11:52:50.011+0800","caller":"logger/logger.go:45","msg":"init logger success"}
+{"level":"INFO","time":"2021-09-06T11:55:26.214+0800","caller":"logger/logger.go:45","msg":"init logger success"}
+{"level":"INFO","time":"2021-09-06T11:55:47.666+0800","caller":"logger/logger.go:78","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36","errors":"","cost":0.0007844}
+{"level":"INFO","time":"2021-09-06T11:55:47.814+0800","caller":"logger/logger.go:78","msg":"/favicon.ico","status":200,"method":"GET","path":"/favicon.ico","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2021-11-09T22:44:40.419+0800","caller":"logger/logger.go:45","msg":"init logger success"}
+{"level":"INFO","time":"2021-11-09T22:47:54.810+0800","caller":"logger/logger.go:45","msg":"init logger success"}

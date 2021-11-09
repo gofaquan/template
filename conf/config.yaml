@@ -3,6 +3,7 @@ mode: "dev"
 port: 8081
 version: "v0.0.1"
 start_time: "2020-07-01"
+#snow_flake生成id
 machine_id: 1
 
 log:
@@ -16,7 +17,7 @@ mysql:
   port: 3306
   user: "root"
   password: "123456"
-  dbname: "example"
+  dbname: "tieba"
   max_open_conns: 200
   max_idle_conns: 50
 redis:
